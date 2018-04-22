@@ -1,0 +1,44 @@
+.sec1
+{
+	background-image:url("images/img1-1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:620px;
+}
+.sec1 i
+{
+	color:white;
+	font-family: 'Lobster', cursive;
+	/* font-family: 'Berkshire Swash', cursive; */
+}
+.sec1-1 h1
+{
+	color:white;
+	text-align:center;
+	padding-top:160px !important;
+}
+.caption 
+{
+    border-bottom: 1px solid #7a7a7a;
+    border-top: 1px solid #7a7a7a;
+}
+.about-2 p 
+{
+	color:black;
+}
+.skills
+{
+	background-image:url("images/myskills.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:600px;
+}
+.skills h1,p
+{
+	text-align:center;
+	color:white;
+}
+.skills1 h4
+{
+	color:white;
+}
