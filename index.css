@@ -36,7 +36,7 @@
 	background-image:url("images/myskills.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
-	height:600px;
+	height:639px;
 }
 .skills h1,p
 {
@@ -56,7 +56,7 @@
 	background-image:url("images/contact.jpg");
 	background-repeat:no-repeat;
 	background-size:cover;
-	height:620px;
+	height:500px;
 }
 .contact h1
 {
@@ -72,6 +72,7 @@
 	margin-left: 30%;
     margin-top: 37px;
     margin-bottom: 30px;
+	
 }
 .name:hover
 {
@@ -87,6 +88,13 @@
 .form-control
 {
 	width:40%;
+	font-size:18px!important;
+}
+.submit
+{
+	padding: 12px 36px!important;
+	border-radius: 25px!important;
+    font-size: 18px!important;
 }
 
 
