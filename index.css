@@ -96,8 +96,27 @@
 	border-radius: 25px!important;
     font-size: 18px!important;
 }
-
-
+.map 
+{
+	background-color:#222;
+	/* height:300px; */
+}
+.map iframe{
+	margin-top:50px;
+	margin-bottom:30px
+}
+.sub
+{
+	margin-top:30px;	
+}
+.m1
+{
+	border:1px solid #009966;
+	margin-bottom: 20px;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
 
 
 
