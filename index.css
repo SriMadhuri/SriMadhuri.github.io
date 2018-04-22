@@ -47,3 +47,50 @@
 {
 	color:white;
 }
+
+
+
+/* contact page starts */
+.contact 
+{
+	background-image:url("images/contact.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:620px;
+}
+.contact h1
+{
+	color:#009966;
+	margin-top: 8%;
+}
+.name
+{
+	border: none!important;
+    background-color: transparent!important;
+    border-bottom: 1px solid white!important;
+    width: 41%!important;
+	margin-left: 30%;
+    margin-top: 37px;
+    margin-bottom: 30px;
+}
+.name:hover
+{
+	border: none!important;
+	 border-bottom: 1px solid #009966!important;
+}
+.form-control:focus
+{
+	border: none!important;
+	border-bottom: 1px solid #009966!important;
+	box-shadow:none!important;
+}
+.form-control
+{
+	width:40%;
+}
+
+
+
+
+
+
